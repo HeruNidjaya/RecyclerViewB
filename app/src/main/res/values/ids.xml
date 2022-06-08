@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="saveButton" type="id" />
+    <item name="alamatEditText" type="id" />
+    <item name="jenisKelaminSpinner" type="id" />
+    <item name="jpSpinner" type="id" />
+    <item name="namaEditText" type="id" />
+    <item name="nimEditText" type="id" />
+    <item name="statusNikahSpinner" type="id" />
+    <item name="tahunMasukEditText" type="id" />
+    <item name="tanggalLahirEditText" type="id" />
+    <item name="tempatLahirEditText" type="id" />
+</resources>
